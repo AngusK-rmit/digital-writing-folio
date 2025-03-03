@@ -1,8 +1,8 @@
 
-   The kinetic poem "Taroko Gorge"
-   The electronic poem "The Gathering Cloud"
-   The hypertext fiction "First Draft of the Revolution"
-   The interactive fiction work "Shade"
+    The kinetic poem "Taroko Gorge"
+    The electronic poem "The Gathering Cloud"
+    The hypertext fiction "First Draft of the Revolution"
+    The interactive fiction work "Shade"
 
      
     Volume 1 (October 2006)
