@@ -7,5 +7,15 @@
 <p> Having some prior knowledge of using Twine, I plan on using it for the finished piece for this lab. Having some experience it is in that sweet spot where it is simple to use but also has so much room to do what I want to do in this piece (that being music playing, external sources. That kind of thing.) It'll be interesting to see what I will be able to accomplish during this semester and if I'm able to achieve my goals for this creative piece.
 </p>
 
+# Week 1 Questions
+
+-What do you think digital writing is?
+<p> To me digital writing and E-lit is literature and writing is something that can and should only be accessed through the digital medium. 
+</p>
+
+-What do you expect from the digital writing lab?
+<p>
+  To be able to push and pull at the boundaries of digital writing and be able to push my own boundaries of my writing. 
+</p>
 
 
