@@ -12,3 +12,6 @@
     Volume 4 (June 2022)
 
 
+# Interaction with Electronic Literature Collection
+
+        <p> Looking at the collection I found a game called Kentucky Route Zero. Having played it a little before starting this class I was confused seeing in this collection. What makes this game different from the others? Is this different from 'other' walking sims? The definintion of E-lit seems to be getting more muddled and messy. I liken it to paint melting into each other on the canvas. But I do love the game and I could use it as inspiration for my own project.
