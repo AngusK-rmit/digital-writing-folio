@@ -39,11 +39,12 @@
 
 Looking back on what I have learnt from Week 1-3:
 
-   - How do you feel about coding now versus how you felt going into this in Week 1?
+  - How do you feel about coding now versus how you felt going into this in Week 1?
   <p>
     I have found that it is less daunting than when I started. I understand the basics in changing font or colour. More importantly I feel that I am equipped with the knowledge to look up solutions and be able to apply them if need be. With the project that I want to do I will need to be able to look up and troubleshoot in order to produce my vision.
   </p>
-   - Has your hands-on engagement with interactive digital literature shifted the way that you 'read' e-lit? In what ways?
+  
+  - Has your hands-on engagement with interactive digital literature shifted the way that you 'read' e-lit? In what ways?
   <p>
     I find myself viewing it more like screenplay writing where the skillset is multi-faceted. With screenplay it takes knowledge of writing and filmmaking in order to make a good screenplay. 
   </p>
