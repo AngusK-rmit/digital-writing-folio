@@ -24,20 +24,34 @@
 
    - What aspects of the remix are the same?
   <p>
-    The thing that I kept the same was the feeling and the vibe of the poem when I remixed it. Feeling the dystopian matrix-y vibe I decided that the words I was going to use had a similar feeling.
+    The thing that I kept the same was the feeling and the vibe of the poem when I remixed it. Feeling the dystopian matrix-y vibe I decided that the words I was going to use had a similar feeling. I also kept the gif as I was a big fan of what emotion it was portraying and the vibe it was emitting. I found that in tandem it worked well with what I was trying to do and with the words I chose.
   </p>
     
    - What aspects of the remix are different?
   <p>
-    The colour as well as the text orientation. I felt that the readability could be better and I felt that it was weird that 
+    The colour as well as the text orientation. I felt that the readability could be better and I felt that it was weird that it was on the right and not on the left. 
   </p>
 
    - Is the remix successful (why or why not)?
+  <p>
+    I found that my word usage would go from clunky to somehow profound. I feel that it is less successful than more as some of the words could have been chosen better or be more maleable with the other words I had chosen. It is also hard to have every word work with every option so in my mind it is less successful. 
+  </p>
 
 Looking back on what I have learnt from Week 1-3:
 
    - How do you feel about coding now versus how you felt going into this in Week 1?
+  <p>
+    I have found that it is less daunting than when I started. I understand the basics in changing font or colour. More importantly I feel that I am equipped with the knowledge to look up solutions and be able to apply them if need be. With the project that I want to do I will need to be able to look up and troubleshoot in order to produce my vision.
+  </p>
    - Has your hands-on engagement with interactive digital literature shifted the way that you 'read' e-lit? In what ways?
-
+  <p>
+    I find myself viewing it more like screenplay writing where the skillset is multi-faceted. With screenplay it takes knowledge of writing and filmmaking in order to make a good screenplay. 
+  </p>
+  <p>
+    Because of that I find myself appreciating E-lit more for understandning the functions more and more as we go on. Looking at the work I am going to do my case study, I find myself trying to understand how it works and why it works. Understanding it more and more means I find myself trying to look under the hood more and more in a sense to try and find a way to replicate it for myself. 
+  </p>
+  <P>
+    I do find myself interrogating the boundaries of E-lit and what is and isn't E-lit. I do think that with the case study and further readings my understanding will become better
+  </P>
 
 
