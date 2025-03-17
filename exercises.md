@@ -23,7 +23,15 @@
 # Week 3 Questions
 
    - What aspects of the remix are the same?
+  <p>
+    The thing that I kept the same was the feeling and the vibe of the poem when I remixed it. Feeling the dystopian matrix-y vibe I decided that the words I was going to use had a similar feeling.
+  </p>
+    
    - What aspects of the remix are different?
+  <p>
+    The colour as well as the text orientation. I felt that the readability could be better and I felt that it was weird that 
+  </p>
+
    - Is the remix successful (why or why not)?
 
 Looking back on what I have learnt from Week 1-3:
