@@ -26,5 +26,10 @@
    - What aspects of the remix are different?
    - Is the remix successful (why or why not)?
 
+Looking back on what I have learnt from Week 1-3:
+
+   - How do you feel about coding now versus how you felt going into this in Week 1?
+   - Has your hands-on engagement with interactive digital literature shifted the way that you 'read' e-lit? In what ways?
+
 
 
