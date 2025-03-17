@@ -46,7 +46,7 @@ Looking back on what I have learnt from Week 1-3:
   
   - Has your hands-on engagement with interactive digital literature shifted the way that you 'read' e-lit? In what ways?
   <p>
-    I find myself viewing it more like screenplay writing where the skillset is multi-faceted. With screenplay it takes knowledge of writing and filmmaking in order to make a good screenplay. 
+    I find myself viewing it more like screenplay writing where the skillset is multi-faceted. With screenplay it takes knowledge of writing and filmmaking in order to make a good screenplay. With E-lit it's the same but with computing and literature.
   </p>
   <p>
     Because of that I find myself appreciating E-lit more for understandning the functions more and more as we go on. Looking at the work I am going to do my case study, I find myself trying to understand how it works and why it works. Understanding it more and more means I find myself trying to look under the hood more and more in a sense to try and find a way to replicate it for myself. 
