@@ -19,3 +19,12 @@
 </p>
 
 
+
+# Week 3 Questions
+
+   - What aspects of the remix are the same?
+   - What aspects of the remix are different?
+   - Is the remix successful (why or why not)?
+
+
+
