@@ -16,3 +16,13 @@
 
 <p>Looking at the collection I found a game called Kentucky Route Zero. Having played it a little before starting this class I was confused seeing in this collection. What makes this game different from the others? Is this different from 'other' walking sims? The definintion of E-lit seems to be getting more muddled and messy. I liken it to paint melting into each other on the canvas. But I do love the game and I could use it as inspiration for my own project.
 <p/>
+
+
+# Wednesday 19th questions
+
+
+- What elements of the works ("Taroko Gorge", "The Gathering Cloud", "First Draft of the Revolution", and "Shade") do you read?
+- How are those elements meaningful?
+- How are the works read differently from print literature?
+- How is electronic literature different from print literature?
+- What are the qualities of the works we might consider as qualities of electronic literature?
