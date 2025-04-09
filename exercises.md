@@ -109,3 +109,10 @@ Looking back on what I have learnt from Week 1-3:
  - Hannah never understood what sea was about. She only knew that her mouthful tie it was vital for her to finish it. She never really had any draw to any of the sums bat mathematics but even then she hardly found any justice from drawer it in clock. 
 
 
+
+
+# Week 6 - 9th of April
+
+ - How does this work make you reflect on your own ideas and what you might do for your own piece?
+
+   For me, these projects allow me to think about what is possible for the types of things I could do in my project. I could have a text message section or maybe I can change the intended mood that I had planned and maybe go for something like House on the Hill. The main thing that it is making me think about is the scope. There are so many things that I can do but there is not enough time and I need to choose what I will be focusing on in order to make my story the best it can be. As stated in class it can't be bells and whistles, there needs to be a purpose. I think, in tandem with the ideas that others have made that I need to make sure I focus thematically and digitally on what effects or ideas that help get my story across. Like in my case study where I talk about how each aspect furthers the message and feeling, I will need to do the same for my project. Or like with snow season maybe I don't need to have as many effects or ideas in my project that I was planning on having. There is an art to simplicity and most art comes from limitation so maybe to help with scope and time management I keep the 'extras' to a certain amount and if I have enough time at the end I can come back and try those ideas out without having to worry about if my project will be finished in time. That is the biggest fear I have considering this project. Scope and being able to reign that in and make sure I am able to submit a full and completed project. 
