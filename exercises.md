@@ -149,3 +149,7 @@ Looking back on what I have learnt from Week 1-3:
   - do you need to develop the story/concept/narrative further in order to answer the above questions? how will you do this? By mapping? By writing it out?
     I do think that there may need to be more stakes or momentum as I do think there needs to be more of a push for users to go through the story and I think at this current stage there is not enough momentum. I do also think some more technology may be better but I don't know whether less is more and if I should stick with what I have now or if I need more. I also don't know if it is an insecurity with the story or if I should just believe in what I have written. 
 
+#MIRO FULL MAP LINK
+https://miro.com/app/board/uXjVI7j4cKo=/?share_link_id=575297851129
+
+
