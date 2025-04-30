@@ -116,3 +116,36 @@ Looking back on what I have learnt from Week 1-3:
  - How does this work make you reflect on your own ideas and what you might do for your own piece?
 
    For me, these projects allow me to think about what is possible for the types of things I could do in my project. I could have a text message section or maybe I can change the intended mood that I had planned and maybe go for something like House on the Hill. The main thing that it is making me think about is the scope. There are so many things that I can do but there is not enough time and I need to choose what I will be focusing on in order to make my story the best it can be. As stated in class it can't be bells and whistles, there needs to be a purpose. I think, in tandem with the ideas that others have made that I need to make sure I focus thematically and digitally on what effects or ideas that help get my story across. Like in my case study where I talk about how each aspect furthers the message and feeling, I will need to do the same for my project. Or like with snow season maybe I don't need to have as many effects or ideas in my project that I was planning on having. There is an art to simplicity and most art comes from limitation so maybe to help with scope and time management I keep the 'extras' to a certain amount and if I have enough time at the end I can come back and try those ideas out without having to worry about if my project will be finished in time. That is the biggest fear I have considering this project. Scope and being able to reign that in and make sure I am able to submit a full and completed project. 
+
+
+
+# Week 8 - 30th of April
+
+
+   - What are the themes and ideas is your piece is exploring?:
+       The ideas that my piece is exploring is mortality, time and how we choose to spend that time when we know how it all ends (death).
+     
+   - What literary genre or style are you drawing on? Is it narrative driven or more poetic and associative? Or essayistic?
+        I am drawing on surreal and also comedic fiction for my story. It is also narrative driven.
+      
+   - succinctly: What is the story? Or, what do you want to express/communicate through this piece?
+        Having been given seven (maybe four) days to live before being turned horse, you are to decide how you want to spend the last bit of your time as a human. Will you visit family? Spend time alone? It is up to the user if they did enough or spent their time wisely before they were turned into a horse. 
+        
+   - what do you wish there reader to understand or feel?
+       The thing that I want the reader to understand is the weight of familial disease and the pressure of time running out. Beyond that I want people to really explore their own mortality and how they would face it. In doing that and exploring how they would use their last week they will be able to interrogate what is really important to them deep down in their deepest level.
+
+
+     
+
+  -what drives the reader’s momentum through the piece?
+    To me, what drives the reader is of course, seeing the ending where they are turned into a horse. Another is through the surreal and comedic moments throughout the story. The final is just a general investment in the story out of curiosity. 
+
+  -how does the digital feed into this momentum?
+    There are multiple technologies that add to the momentum for this piece. The no back button means that the user can only go forward rather than back. Another is the multiple choices through twine allow the user to invest in the story and allow them to drive the story how they want. 
+
+  -how does the literary and the digital drive the momentum together with the piece’s thematics?
+    The main technologies all feed into this idea of choice and time. Putting emphasis on choice with the multiple choice questions and decisions as well as the removal of the back button adds to this pressure of choice and the finality of these choices. 
+
+  -do you need to develop the story/concept/narrative further in order to answer the above questions? how will you do this? By mapping? By writing it out?
+    I do think that there may need to be more stakes or momentum as I do think there needs to be more of a push for users to go through the story and I think at this current stage there is not enough momentum. I do also think some more technology may be better but I don't know whether less is more and if I should stick with what I have now or if I need more. I also don't know if it is an insecurity with the story or if I should just believe in what I have written. 
+
