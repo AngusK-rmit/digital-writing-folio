@@ -137,15 +137,15 @@ Looking back on what I have learnt from Week 1-3:
 
      
 
-  -what drives the reader’s momentum through the piece?
+   - what drives the reader’s momentum through the piece?
     To me, what drives the reader is of course, seeing the ending where they are turned into a horse. Another is through the surreal and comedic moments throughout the story. The final is just a general investment in the story out of curiosity. 
 
-  -how does the digital feed into this momentum?
+  - how does the digital feed into this momentum?
     There are multiple technologies that add to the momentum for this piece. The no back button means that the user can only go forward rather than back. Another is the multiple choices through twine allow the user to invest in the story and allow them to drive the story how they want. 
 
-  -how does the literary and the digital drive the momentum together with the piece’s thematics?
+  - how does the literary and the digital drive the momentum together with the piece’s thematics?
     The main technologies all feed into this idea of choice and time. Putting emphasis on choice with the multiple choice questions and decisions as well as the removal of the back button adds to this pressure of choice and the finality of these choices. 
 
-  -do you need to develop the story/concept/narrative further in order to answer the above questions? how will you do this? By mapping? By writing it out?
+  - do you need to develop the story/concept/narrative further in order to answer the above questions? how will you do this? By mapping? By writing it out?
     I do think that there may need to be more stakes or momentum as I do think there needs to be more of a push for users to go through the story and I think at this current stage there is not enough momentum. I do also think some more technology may be better but I don't know whether less is more and if I should stick with what I have now or if I need more. I also don't know if it is an insecurity with the story or if I should just believe in what I have written. 
 
