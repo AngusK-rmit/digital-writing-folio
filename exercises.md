@@ -138,18 +138,43 @@ Looking back on what I have learnt from Week 1-3:
      
 
    - what drives the reader’s momentum through the piece?
-    To me, what drives the reader is of course, seeing the ending where they are turned into a horse. Another is through the surreal and comedic moments throughout the story. The final is just a general investment in the story out of curiosity. 
+  
+  To me, what drives the reader is of course, seeing the ending where they are turned into a horse. Another is through the surreal and comedic moments throughout the story. The final is just a general investment in the story out of curiosity. 
 
   - how does the digital feed into this momentum?
-    There are multiple technologies that add to the momentum for this piece. The no back button means that the user can only go forward rather than back. Another is the multiple choices through twine allow the user to invest in the story and allow them to drive the story how they want. 
+
+     There are multiple technologies that add to the momentum for this piece. The no back button means that the user can only go forward rather than back. Another is the multiple choices through twine allow the user to invest in the story and allow them to drive the story how they want. 
 
   - how does the literary and the digital drive the momentum together with the piece’s thematics?
+
     The main technologies all feed into this idea of choice and time. Putting emphasis on choice with the multiple choice questions and decisions as well as the removal of the back button adds to this pressure of choice and the finality of these choices. 
 
   - do you need to develop the story/concept/narrative further in order to answer the above questions? how will you do this? By mapping? By writing it out?
-    I do think that there may need to be more stakes or momentum as I do think there needs to be more of a push for users to go through the story and I think at this current stage there is not enough momentum. I do also think some more technology may be better but I don't know whether less is more and if I should stick with what I have now or if I need more. I also don't know if it is an insecurity with the story or if I should just believe in what I have written. 
+
+     I do think that there may need to be more stakes or momentum as I do think there needs to be more of a push for users to go through the story and I think at this current stage there is not enough momentum. I do also think some more technology may be better but I don't know whether less is more and if I should stick with what I have now or if I need more. I also don't know if it is an insecurity with the story or if I should just believe in what I have written. 
 
 #MIRO FULL MAP LINK
 https://miro.com/app/board/uXjVI7j4cKo=/?share_link_id=575297851129
+
+
+  - how many words will it be?
+
+I am hoping to make it under 5000 words. 
+    
+  - how many screens?
+    
+The idea I think is to keep it under 90 and that would be doable with four days instead of seven
+    
+  - what do you need to do on a week-by-week basis (is this realistic?)
+
+  Each week have a day done. After that have a week to finalise tech and spelling.
+  
+  - what is the tech that might get you stuck? what is the workaround/Plan B?
+
+Music and photos. The work around is to just not have it or have it selectively in certain passages for added effect. Sometimes less is more.
+    
+  -what else might be an obstacle? flag it early with Jenny and Lucinda
+
+  Maybe too many passages or words. Will need to make sure I am not going overboard
 
 
