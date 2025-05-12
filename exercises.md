@@ -178,3 +178,18 @@ Music and photos. The work around is to just not have it or have it selectively 
   Maybe too many passages or words. Will need to make sure I am not going overboard
 
 
+#Week 10 12th of May
+
+
+- what were your expectations coming into the class and what have you learnt?
+
+My expectations coming into this class would be to learn how technology and literature go together and what we can learn from that and even use it.
+
+- how has your creative writing practice developed? are there new directions? Or perhaps it has confirmed something about your practice as it was?
+
+While regarding E-lit, I definitely think that my idea of what makes it E-lit has changed. This has meant thinking about ideas to expand and pursue this area of literature within my own project and how I can use these technologies to their full effect. This could mean using technologies to help expand on the themes or to add to the reading experience. 
+
+- what particular aspects of code-based writing and E-Lit might inform your practice from here on? Perhaps you will take an aspect of E-Lit into an analogue space? Perhaps you will never go near code ever again!
+
+How to use the full extent of the page in order to get my themes or ideas across. Or to try to expand the boundaries of what is and isn't E-lit and what I could bring to traditional analog literature. I like tech and ideas that escape from the space. Literature like ergodic is something that I like to use. So maybe this could be something that I use in the future. Eroding the boudaries between technology and literature within my own works.
+
