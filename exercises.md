@@ -178,7 +178,7 @@ Music and photos. The work around is to just not have it or have it selectively 
   Maybe too many passages or words. Will need to make sure I am not going overboard
 
 
-# Week 10 12th of May
+# Week 10 - 12th of May
 
 
 - what were your expectations coming into the class and what have you learnt?
